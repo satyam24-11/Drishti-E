@@ -52,10 +52,8 @@ perform all the other necessary actions. </p><br/>
 ## RUN USING :
 `python manage.py runserver`
 
-<br>
+<be>
 
-## RESULTS :
-<b><a href="https://drive.google.com/file/d/1gA-ZQGDurEa4jcGXB8LffPegaSrg4ORe/view?usp=drivesdk">Click Here</a> to watch the project demonstration.<b>
 
 
 
