@@ -1,62 +1,62 @@
-# Drisht-E
-A Voice-based email system for the visually challenged.<br/>
-<br/>
+# Mail Sahayak
 
-## ABSTRACT : 
-<p align="justify">Email has become an essential means of communication for people worldwide, facilitating the exchange of confidential and time-sensitive information. However, the visually impaired community, consisting of approximately 253 million individuals globally, faces significant communication barriers. As technology continues to advance, these individuals often feel further marginalized and disadvantaged.</p>
+A Voice-based email system for the visually challenged.
 
-<p align="justify">
-So, we propose "Drisht-E", a web-based application for visually impaired people
-using Interactive voice response, enabling them to control their mail accounts using their voice and be able to read, send, and
-perform all the other necessary actions. </p><br/>
+---
 
-## TECH STACK : 
-<ul type="square">
+## Abstract
 
-  <li> <b> Frontend : </b>
-       <p align="left"> 
-          <a href="https://www.w3.org/html/" target="_blank" > 
-            <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
-          </a>    
-         &emsp;
-          <a href="https://www.w3schools.com/css/" target="_blank">
-            <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> 
-          </a> 
-         &emsp;
-         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-           <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
-         </a>
-         &emsp;
-          <a href="https://getbootstrap.com" target="_blank"> 
-            <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> 
-          </a>
-        </p> 
-  </li>
- <li> <b> Backend : </b>
-     <p align = "left">
-        <a href="https://www.python.org" target="_blank">
-          <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" /> 
-       </a>
-     </p>
-   </li>
-    <li> <b> Framework : </b>
-     <p align="left"> 
-      <a href="https://www.djangoproject.com/" target="_blank"> 
-        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" /> 
-      </a> 
-    </p>
-   </li>
+Email has become an essential means of communication for people worldwide, facilitating the exchange of confidential and time-sensitive information. However, the visually impaired community, consisting of approximately 253 million individuals globally, faces significant communication barriers. As technology continues to advance, these individuals often feel further marginalized and disadvantaged.
 
- </ul><br/>
- 
-## RUN USING :
-`python manage.py runserver`
+To address this issue, we propose **"Mail Sahayak"**, a web-based application for visually impaired people. Using Interactive Voice Response (IVR), this system enables users to control their mail accounts using their voice, allowing them to read, send, and perform other necessary actions seamlessly.
 
-<be>
+---
 
+## Features
 
+- **Voice-based Interaction**: Users can perform email-related tasks using voice commands.
+- **Accessibility**: Designed specifically for visually impaired individuals.
+- **Core Functionalities**:
+  - Compose emails.
+  - Access inbox.
+  - Logout functionality.
 
+---
 
+## Tech Stack
 
+### Frontend
 
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Framework
+
+- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+---
+
+## How to Run
+
+* Clone the repository:
+
+   ``` git clone <repository-url>```
+*  Navigate to the project directory:
+
+     ```cd Mail Sahayak```
+* Install the required dependencies:
+
+    ```pip install -r requirements.txt```
+* Run the development server:
+
+    ```python manage.py runserver```
+* Open your browser and navigate to:
+
+    ```http://127.0.0.1:8000/```
 
