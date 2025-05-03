@@ -46,7 +46,7 @@ To address this issue, we propose **"Mail Sahayak"**, a web-based application fo
 
 * Clone the repository:
 
-   ``` git clone <repository-url>```
+   ``` git clone https://github.com/satyam24-11/Mail-Sahayak.git```
 *  Navigate to the project directory:
 
      ```cd Mail Sahayak```
