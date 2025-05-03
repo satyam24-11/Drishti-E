@@ -25,7 +25,8 @@ SECRET_KEY = '#)wx2t=1hz*=7jvmxdl8agpkk4aqfa9cyq#($$px#s*%cp+r7-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mail-sahayak.onrender.com', 'localhost', '127.0.0.1']
+
 
 
 # Application definition
