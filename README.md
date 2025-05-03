@@ -6,7 +6,7 @@ A Voice-based email system for the visually challenged.<br/>
 <p align="justify">Email has become an essential means of communication for people worldwide, facilitating the exchange of confidential and time-sensitive information. However, the visually impaired community, consisting of approximately 253 million individuals globally, faces significant communication barriers. As technology continues to advance, these individuals often feel further marginalized and disadvantaged.</p>
 
 <p align="justify">
-So, we propose "Drisht-E", a web-based application for visually impaired people
+So, we propose "Mail Sahayak", a web-based application for visually impaired people
 using Interactive voice response, enabling them to control their mail accounts using their voice and be able to read, send, and
 perform all the other necessary actions. </p><br/>
 
