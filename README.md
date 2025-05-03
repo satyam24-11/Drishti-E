@@ -1,4 +1,4 @@
-# Drisht-E
+# Mail Sahayak
 A Voice-based email system for the visually challenged.<br/>
 <br/>
 
