@@ -1,20 +1,8 @@
 # Mail Sahayak
-<<<<<<< HEAD
-=======
-A Voice-based email system for the visually challenged.<br/>
-<br/>
->>>>>>> 050997025d8febf4a61aa40a16476afffc3d25e0
 
 A Voice-based email system for the visually challenged.
 
-<<<<<<< HEAD
 ---
-=======
-<p align="justify">
-So, we propose "Mail Sahayak", a web-based application for visually impaired people
-using Interactive voice response, enabling them to control their mail accounts using their voice and be able to read, send, and
-perform all the other necessary actions. </p><br/>
->>>>>>> 050997025d8febf4a61aa40a16476afffc3d25e0
 
 ## Abstract
 
