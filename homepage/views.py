@@ -100,7 +100,7 @@ def login_view(request):
     global i, addr, passwrd
 
     if request.method == 'POST':
-        text1 = "Welcome to Drisht-E, your very own Voice based Email service. Login with your email account in order to continue. "
+        text1 = "Welcome to Mail Sahayak, your very own Voice based Email service. Login with your email account in order to continue. "
         texttospeech(text1, file + i)
         i = i + str(1)
 
